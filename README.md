@@ -52,17 +52,23 @@ sql-sales-funnel-analysis/
 
 ## Principales hallazgos
 
-*(Pendiente de completar con los resultados reales al ejecutar las consultas
-sobre el dataset — sustituye estos placeholders por tus números.)*
+- Las etapas finales del funnel presentan una **tasa de conversión superior al 80% desde Checkout Start hasta Purchase**, lo que sugiere que el proceso de compra presenta una baja fricción en sus etapas finales.
 
-- La mayor caída del embudo se produce entre **[etapa X] → [etapa Y]**, con
-  una tasa de conversión de **[XX%]**.
-- El canal **[canal]** tiene la mejor tasa de conversión global (**[XX%]**),
-  frente al **[XX%]** de **[canal]**.
-- El tiempo medio desde la primera vista hasta la compra es de **[XX]
-  minutos**.
-- El valor medio de pedido (AOV) es de **[XX €]**, con un ingreso medio por
-  visitante de **[XX €]**.
+- **Social Media concentra aproximadamente el 30% del tráfico**, pero registra una tasa de conversión cercana al **6%**, inferior a la de otros canales analizados.
+
+- **Email alcanza aproximadamente un 13% de conversión**, mostrando una mayor eficiencia de conversión que Social Media (~6%).
+
+- El **Average Order Value (AOV) se sitúa alrededor de $115**, una métrica relevante para evaluar la eficiencia y rentabilidad de las estrategias de adquisición.
+
+### Recomendaciones de negocio
+
+- **Mantener el proceso de checkout actual**, ya que las tasas de conversión en las etapas finales son elevadas y no muestran una necesidad evidente de cambios importantes.
+
+- **Revisar la estrategia de adquisición en Social Media**, analizando la calidad del tráfico y considerando estrategias de retargeting o captación de leads para mejorar su conversión.
+
+- **Potenciar Email Marketing**, dado que presenta una tasa de conversión superior a Social Media.
+
+- **Monitorizar el coste de adquisición de clientes (CAC) en relación con el AOV**, especialmente en canales con menor conversión, para evaluar la rentabilidad de las campañas.
 
 ## Cómo reproducirlo
 
