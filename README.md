@@ -81,4 +81,3 @@ sql-sales-funnel-analysis/
 ## Autor
 
 Hamza — Máster en Sistemas Inteligentes, Universidad de Salamanca.
-[LinkedIn] · [Portfolio]
