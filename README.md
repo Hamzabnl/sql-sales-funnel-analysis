@@ -70,14 +70,6 @@ sql-sales-funnel-analysis/
 
 - **Monitorizar el coste de adquisición de clientes (CAC) en relación con el AOV**, especialmente en canales con menor conversión, para evaluar la rentabilidad de las campañas.
 
-## Cómo reproducirlo
-
-1. Crear un proyecto en Google Cloud y habilitar BigQuery.
-2. Cargar el dataset de eventos en una tabla con el esquema descrito arriba
-   (o adaptar el nombre de la tabla en cada consulta a tu propio proyecto).
-3. Ejecutar las consultas de `queries/` en orden desde la consola de
-   BigQuery o desde el editor SQL de tu elección.
-
 ## Autor
 
 Hamza — Máster en Sistemas Inteligentes, Universidad de Salamanca.
