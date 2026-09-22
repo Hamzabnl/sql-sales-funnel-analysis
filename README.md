@@ -36,6 +36,7 @@ otros, los siguientes campos:
 ```
 sql-sales-funnel-analysis/
 ├── README.md
+├── user_events.csv
 └── queries/
     ├── 01_funnel_stage_counts.sql        -- volumen de eventos por etapa
     ├── 02_conversion_rates.sql           -- tasas de conversión etapa a etapa
